@@ -1,6 +1,12 @@
 # venturer
-1. anEyeOut
-2. T-rex runner
-3. spaceBarTap
-4. website cleaner (ads free news articles)
-5. 
+- anEyeOut
+- T-rex runner
+- spaceBarTap
+- website cleaner (ads free news articles)
+-Research Company before interview
+---- LinkedIn search for connections who work/have worked for the company at the same position you are applying for
+-------- Add templates of messages of how you could start conversations with them
+---- Other information one must know (compiled on one webpage)
+-------- Name of the CEO/CTO/CFO
+-------- What company does
+-------- Glassdoor stuff and more
