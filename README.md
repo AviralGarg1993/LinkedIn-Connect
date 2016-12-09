@@ -1,3 +1,4 @@
+#LinkedIn-Connect
 Script to Connect all profiles in LinkedIn search page 
 
 Software Requirements:
