@@ -1,9 +1,18 @@
-# venturer
-- Hassle-free connections with [LinkedIn Connect] (https://github.com/AviralGarg1993/venturer/tree/master/LinkedInConnect)
-- Research Company before interview
----- LinkedIn search for connections who work/have worked for the company at the same position you are applying for
--------- Add templates of messages of how you could start conversations with them
----- Other information one must know (compiled on one webpage)
--------- Name of the CEO/CTO/CFO
--------- What company does
--------- Glassdoor stuff and more
+App to Connect all profiles in LinkedIn search page 
+
+Software Requirements:
+- Download chrome extension [Custom JavaScript for websites] (https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija)
+
+Usage Example:
+
+- Log in to linkedIn
+- Type 'recruiter' in the LinkedIn searchbar
+- Select "People with Recruiter titles"
+![alt tag](Images/SearchExample.PNG)
+- Copy all the code from app.js file
+- Go back to LinkedIn window
+- Click the button created by "Custom JavasScript for websites" extension on the top right
+- Paste the code you copied earlier
+![alt tag](Images/PasteCode.PNG)
+- Click "Save button"
+
