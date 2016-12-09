@@ -8,11 +8,11 @@ Usage Example:
 - Log in to linkedIn
 - Type 'recruiter' in the LinkedIn searchbar
 - Select "People with Recruiter titles"
-![alt tag](venturer/LinkedInConnect/Images/SearchExample.PNG)
+![alt tag](Images/SearchExample.PNG)
 - Copy all the code from app.js file
 - Go back to LinkedIn window
 - Click the button created by "Custom JavasScript for websites" extension on the top right
 - Paste the code you copied earlier
-![alt tag](venturer/LinkedInConnect/Images/PasteCode.PNG)
+![alt tag](Images/PasteCode.PNG)
 - Click "Save button"
 
