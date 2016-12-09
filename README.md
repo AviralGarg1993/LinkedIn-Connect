@@ -1,4 +1,4 @@
-App to Connect all profiles in LinkedIn search page 
+Script to Connect all profiles in LinkedIn search page 
 
 Software Requirements:
 - Download chrome extension [Custom JavaScript for websites] (https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija)
