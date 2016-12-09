@@ -1,7 +1,7 @@
 // Every 1 second, click all the connect buttons on the result page 
 window.setInterval(function () {
     $("a:contains('Connect')").each(function (index, a) {
-        $(this).trigger('click')
+        $(this).trigger('click');
     });
 
     //Scroll down to the button of the page
