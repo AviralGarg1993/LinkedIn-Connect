@@ -1,5 +1,5 @@
 #LinkedIn-Connect
-Script to Connect all profiles in LinkedIn search page 
+Script for a LinkedIn user to connect with all profiles in LinkedIn search page 
 
 Software Requirements:
 - Download chrome extension [Custom JavaScript for websites] (https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija)
