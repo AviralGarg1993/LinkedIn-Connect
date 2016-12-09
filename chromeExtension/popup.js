@@ -1,18 +1,11 @@
 document.addEventListener('DOMContentLoaded', function () {
+    console.log("1 clicked");
     var connectMeButton = document.getElementById('connectMe');
     connectMeButton.addEventListener('click', function () {
-        // Every 1 second, click all the connect buttons on the result page 
-        window.setInterval(function () {
-            $("a:contains('Connect')").each(function (
-                index, a) {
-                $(this).trigger('click');
-            });
-            //Scroll down to the button of the page
-            window.scrollTo(0, document.body.scrollHeight);
-        }, 1000);
-        //Click Next after every 5 seconds
-        window.setInterval(function () {
-            $("a:contains('Next >')")[0].click();
-        }, 5000);
+        console.log("2 clicked");
+        //Download jQuery and include it with your extension. Loading things from an 
+        //  external resource is a security issue.
+        chrome.tabs.executeScript({file:"jquery-3.1.1.min.js"});
+        chrome.tabs.executeScript({file:"contentScript.js"});
     }, false);
 }, false);
